@@ -7,9 +7,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aronslie&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aronslie&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchungcuskyviewplaza.com%2Fanh-meme-cute%2F&psig=AOvVaw0E_21wOSS-VrXLpIHY9ATg&ust=1681189285076000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjwq6PEnv4CFQAAAAAdAAAAABAE/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Aronslie&icon=1&color=1)](https://visitcount.itsvg.in)
 
